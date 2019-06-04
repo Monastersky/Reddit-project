@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-I was tasked with comparing reddit posts in two subreddits; Seinfeld and Curb Your Enthusiasm. If I can classify TV shows just by using text that is talking about then I could automate the process of sorting what shows a quote is talking about.
+I was tasked with comparing reddit posts in two subreddits; Seinfeld and Curb Your Enthusiasm. If I can classify TV shows just by using text that is talking about them then I could automate the process of sorting what show a quote is talking about.
 
 
 ## Executive Summary
